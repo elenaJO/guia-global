@@ -1,0 +1,1 @@
+This is the official Global 66 style guide for all our applications. Before writing any code you must read the guide.
